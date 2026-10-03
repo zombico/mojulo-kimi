@@ -1,0 +1,20 @@
+{
+  "name": "mojulo-kimi",
+  "version": "0.1.0",
+  "description": "Build, edit and export deterministic 3D artifacts with Mojulo from Kimi Code.",
+  "author": {
+    "name": "Franz Ombico",
+    "url": "https://mojulo.ai"
+  },
+  "homepage": "https://mojulo.ai",
+  "license": "Apache-2.0",
+  "keywords": ["3d", "procedural", "kimi", "agent", "glb", "worldbuilding"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Mojulo",
+    "shortDescription": "Procedural 3D with Mojulo",
+    "longDescription": "Build, edit and export deterministic 3D objects, scenes, worlds and games with Mojulo running locally in the active Kimi Code workspace.",
+    "developerName": "Franz Ombico",
+    "websiteURL": "https://mojulo.ai"
+  }
+}
